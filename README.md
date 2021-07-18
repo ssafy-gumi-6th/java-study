@@ -24,7 +24,7 @@
 
 ## 📒주제
 
-- JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가.
+- [JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가.](https://github.com/ssafy-gumi-6th/java-study/issues/1)
 - 자바 데이터 타입, 변수 그리고 배열
 - 연산자
 - 제어문
