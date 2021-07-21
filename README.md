@@ -66,4 +66,4 @@
 | 이승관(qnfzks111)     | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 | 이하림(limhaha)       | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 | 최진영(jinyoungchoi95)| :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-| 홍령기(HongRK)        |  :white_check_mark:    |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| 홍령기(HongRK)        | :white_check_mark:    |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
