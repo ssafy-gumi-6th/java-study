@@ -25,8 +25,8 @@
 ## 📒주제
 
 - [JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가.](https://github.com/ssafy-gumi-6th/java-study/issues/1) (~07/21)
-- 자바 데이터 타입, 변수 그리고 배열
-- 연산자
+- [자바 데이터 타입, 변수 그리고 배열](https://github.com/ssafy-gumi-6th/java-study/issues/2) (~07/27)
+- [연산자](https://github.com/ssafy-gumi-6th/java-study/issues/3) (~07/29)
 - 제어문
 - 클래스
 - 상속
