@@ -27,8 +27,8 @@
 - [JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가.](https://github.com/ssafy-gumi-6th/java-study/issues/1) (~07/21)
 - [자바 데이터 타입, 변수 그리고 배열](https://github.com/ssafy-gumi-6th/java-study/issues/2) (~07/27)
 - [연산자](https://github.com/ssafy-gumi-6th/java-study/issues/3) (~07/29)
-- 제어문
-- 클래스
+- [제어문](https://github.com/ssafy-gumi-6th/java-study/issues/4) (~08/02)
+- [클래스](https://github.com/ssafy-gumi-6th/java-study/issues/5) (~08/04)
 - 상속
 - 패키지
 - 인터페이스
@@ -59,11 +59,11 @@
 
 | 참여자 (8)            | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   | 12   | 13   | 14   | 15   | 16   |
 | ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 김민성(jiokim-7)      | :white_check_mark:     | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-| 김영훈(HoonyCode)     | :white_check_mark:     | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-| 문관필(Get-Brain)     | :white_check_mark:     | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-| 심현준(simhj)         | :white_check_mark:     | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-| 이승관(qnfzks111)     | :white_check_mark:     | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-| 이하림(limhaha)       | :white_check_mark:     | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-| 최진영(jinyoungchoi95)| :white_check_mark:     | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-| 홍령기(HongRK)        | :white_check_mark:     | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| 김민성(jiokim-7)      | :white_check_mark:     | :white_check_mark:     | :white_check_mark     |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| 김영훈(HoonyCode)     | :white_check_mark:     | :white_check_mark:     | :white_check_mark     |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| 문관필(Get-Brain)     | :white_check_mark:     | :white_check_mark:     | :white_check_mark     |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| 심현준(simhj)         | :white_check_mark:     | :white_check_mark:     | :white_check_mark     |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| 이승관(qnfzks111)     | :white_check_mark:     | :white_check_mark:     | :white_check_mark     |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| 이하림(limhaha)       | :white_check_mark:     | :white_check_mark:     | :white_check_mark     |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| 최진영(jinyoungchoi95)| :white_check_mark:     | :white_check_mark:     | :white_check_mark     |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| 홍령기(HongRK)        | :white_check_mark:     | :white_check_mark:     | :white_check_mark     |      |      |      |      |      |      |      |      |      |      |      |      |      |
