@@ -59,11 +59,11 @@
 
 | 참여자 (8)            | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   | 12   | 13   | 14   | 15   | 16   |
 | ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 김민성(jiokim-7)      | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |
-| 김영훈(HoonyCode)     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |
-| 문관필(Get-Brain)     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |
-| 심현준(simhj)         | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |
-| 이승관(qnfzks111)     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |
-| 이하림(limhaha)       | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |
-| 최진영(jinyoungchoi95)| :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |
-| 홍령기(HongRK)        | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     |      |      |      |      |      |      |      |      |      |      |      |      |
+| 김민성(jiokim-7)      | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark: |      |      |      |      |      |      |      |      |      |      |      |
+| 김영훈(HoonyCode)     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark: |      |      |      |      |      |      |      |      |      |      |      |
+| 문관필(Get-Brain)     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark: |      |      |      |      |      |      |      |      |      |      |      |
+| 심현준(simhj)         | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark: |      |      |      |      |      |      |      |      |      |      |      |
+| 이승관(qnfzks111)     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark: |      |      |      |      |      |      |      |      |      |      |      |
+| 이하림(limhaha)       | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark: |      |      |      |      |      |      |      |      |      |      |      |
+| 최진영(jinyoungchoi95)| :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark: |      |      |      |      |      |      |      |      |      |      |      |
+| 홍령기(HongRK)        | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark:     | :white_check_mark: |      |      |      |      |      |      |      |      |      |      |      |
