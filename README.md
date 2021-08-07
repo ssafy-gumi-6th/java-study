@@ -29,8 +29,8 @@
 - [연산자](https://github.com/ssafy-gumi-6th/java-study/issues/3) (~07/29)
 - [제어문](https://github.com/ssafy-gumi-6th/java-study/issues/4) (~08/02)
 - [클래스](https://github.com/ssafy-gumi-6th/java-study/issues/5) (~08/04)
-- 상속
-- 패키지
+- [상속](https://github.com/ssafy-gumi-6th/java-study/issues/6) (~08/10)
+- [패키지](https://github.com/ssafy-gumi-6th/java-study/issues/7) (~08/12)
 - 인터페이스
 - 예외 처리
 - 멀티쓰레드 프로그래밍
