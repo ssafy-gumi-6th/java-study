@@ -32,7 +32,7 @@
 - [상속](https://github.com/ssafy-gumi-6th/java-study/issues/6) (~08/10)
 - [패키지](https://github.com/ssafy-gumi-6th/java-study/issues/7) (~08/12)
 - [인터페이스](https://github.com/ssafy-gumi-6th/java-study/issues/8) (~08/19)
-- 예외 처리
+- [예외 처리](https://github.com/ssafy-gumi-6th/java-study/issues/9) (~08/26)
 - 멀티쓰레드 프로그래밍
 - Enum
 - 어노테이션
