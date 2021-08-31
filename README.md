@@ -33,8 +33,8 @@
 - [패키지](https://github.com/ssafy-gumi-6th/java-study/issues/7) (~08/12)
 - [인터페이스](https://github.com/ssafy-gumi-6th/java-study/issues/8) (~08/19)
 - [예외 처리](https://github.com/ssafy-gumi-6th/java-study/issues/9) (~08/26)
-- 멀티쓰레드 프로그래밍
-- Enum
+- [멀티쓰레드 프로그래밍](https://github.com/ssafy-gumi-6th/java-study/issues/10) (~08/31)
+- [Enum](https://github.com/ssafy-gumi-6th/java-study/issues/11) (~09/02)
 - 어노테이션
 - I/O
 - 제네릭
