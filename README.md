@@ -35,7 +35,7 @@
 - [예외 처리](https://github.com/ssafy-gumi-6th/java-study/issues/9) (~08/26)
 - [멀티쓰레드 프로그래밍](https://github.com/ssafy-gumi-6th/java-study/issues/10) (~08/31)
 - [Enum](https://github.com/ssafy-gumi-6th/java-study/issues/11) (~09/02)
-- 어노테이션
+- [어노테이션](https://github.com/ssafy-gumi-6th/java-study/issues/12) (~09/14)
 - I/O
 - 제네릭
 - 람다식
