@@ -37,7 +37,7 @@
 - [Enum](https://github.com/ssafy-gumi-6th/java-study/issues/11) (~09/02)
 - [어노테이션](https://github.com/ssafy-gumi-6th/java-study/issues/12) (~09/14)
 - [제네릭](https://github.com/ssafy-gumi-6th/java-study/issues/13) (~09/28)
-- [람다식](https://github.com/ssafy-gumi-6th/java-study/issues/13) (~09/28)
+- [람다식](https://github.com/ssafy-gumi-6th/java-study/issues/14) (~09/28)
 - Optional
 
 
